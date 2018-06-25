@@ -1,0 +1,35 @@
+h1{
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+
+.image{
+  background-image: url("../Media/Colored Shingles.jpeg");
+  background-size: auto;
+}
+
+.Art_Category{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+#Frames{
+  background-color: lightcoral;
+}
+#Brushes{
+  background-color: mediumspringgreen;
+}
+#Paint{
+  background-color: skyblue;
+}
+
+.Price{
+  font-family: Helvetica;
+  color: blue;
+  font-weight: bold;
+}
